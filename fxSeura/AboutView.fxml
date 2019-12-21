@@ -1,0 +1,22 @@
+<?import javafx.scene.text.*?>
+<?import javafx.scene.web.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<VBox xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" alignment="CENTER" style="-fx-background-color: #ffffB0;">
+<children>
+<Label alignment="TOP_CENTER" maxWidth="1.7976931348623157E308" prefHeight="50.0" text="ASIAKASREKISTERI">
+<font>
+<Font name="Arial Bold" size="24.0"/>
+</font>
+</Label>
+<Label alignment="CENTER" maxWidth="1.7976931348623157E308" text="Versio 1.0"/>
+<Label alignment="BOTTOM_CENTER" maxWidth="1.7976931348623157E308" prefHeight="40.0" text="Anette Karhu">
+<font>
+<Font name="System Bold Italic" size="20.0"/>
+</font>
+</Label>
+</children>
+</VBox>
